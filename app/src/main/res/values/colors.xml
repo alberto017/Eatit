@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#004d40</color>
+    <color name="colorPrimaryDark">#00251a</color>
+    <color name="colorAccent">#39796b</color>
+    <color name="btnSignUp">#39796b</color>
+    <color name="btnSignActive">#a9d440</color>
+    <color name="successGreen">#11a10c</color>
+    <color name="successFail">#e60800</color>
+    <color name="uplayBackground">#A8FF5722</color>
+    <color name="downBackground">#9EFF5722</color>
+</resources>
